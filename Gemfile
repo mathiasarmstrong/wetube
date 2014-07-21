@@ -42,3 +42,4 @@ group :test, :development do
   gem 'rspec-rails', '~> 3.0.0'
 end
 
+gem 'hirb', '~> 0.7.2'
